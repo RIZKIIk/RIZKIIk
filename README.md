@@ -41,11 +41,6 @@ Currently, I'm focusing on **backend development with Rust**, database managemen
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-## Featured Projects
-
-### [Laptop Store API](https://github.com/RIZKIIk/pkl-toko-laptop)
-REST API built with Rust and PostgreSQL, featuring laptop data management, CRUD operations, authentication, sessions, and registration.
-
 ### [Personal Portfolio](https://rizz-portfolio.vercel.app)
 A personal website to introduce me and showcase my projects.
 
