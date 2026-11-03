@@ -14,6 +14,9 @@ Building software, exploring technology, and turning ideas into useful applicati
 <a href="https://github.com/RIZKIIk">
   <img src="https://img.shields.io/badge/GitHub-View%20Profile-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
+<a href="mailto:diazggs321@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
 
 </div>
 
